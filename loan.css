@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  text-align: center;
+  padding: 40px 40px 40px 40px;
+  }
+.cal-cl {
+  border: 3px solid #9b3b85;
+  width: 600px;
+  height: auto;
+  background-color: #899089;
+  box-shadow: 20px rgb(29, 73, 218);
+  border-radius: 10px;
+}
+.amount-rs {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+li {
+  list-style: none;
+}
+.doller {
+  padding: 0px 10px 4px 2px;
+  border: 0px solid rgb(33, 2, 2);
+  background-color: #77cd77;
+}
+.per {
+    padding: 0px 10px 4px 2px;
+    border: 0px solid rgb(33, 2, 2);
+    background-color: #77cd77;
+  }
+input {
+  height: 20px;
+  width: 290px;
+ 
+}
+.amount-per{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.yer {
+  padding: 0px 10px 4px 2px;
+  border: 0px solid rgb(33, 2, 2);
+  background-color: #77cd77;
+}
+.amount-year{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
